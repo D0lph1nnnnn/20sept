@@ -1,0 +1,52 @@
+* {
+    font-family: 'Turret Road', cursive;
+}
+
+.ul-inline {
+    background-color: aquamarine;
+    width: 69%;
+}
+
+.ul-inline li {
+    display: inline;
+    background-color: salmon;
+    width: 10%;
+}
+
+.ul-inline-block {
+    background-color: rgb(212, 245, 91);
+    width: 69%;
+}
+
+.ul-inline-block li {
+    display: inline-block;
+    background-color: rgb(93, 121, 65);
+    padding: 10px;
+    width: 20%;
+    text-align: center;
+    color: aliceblue;
+}
+
+.ul-block {
+    background-color: rgb(168, 51, 57);
+    color: #fff;
+    width: 100%;
+}
+
+.ul-block li {
+    display: block;
+    height: 100px;
+    width: 20%;
+    margin: 0 auto;
+    border: 2px solid red;
+}
+
+.pp {
+    width: 20%;
+    color: black;
+}
+
+.ul-block-wrapper {
+    margin: 0 auto;
+    width: 90%;
+}
